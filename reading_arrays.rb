@@ -8,7 +8,7 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-  STUDENT_NAMES = [ "Adele", "Beyoncé",
+  STUDENT_NAMES = [ "Adele", "Beyoncé",  "Cardi B",
   "Cardi B",
   "Lady Gaga",
   "Nicki Minaj" ,
