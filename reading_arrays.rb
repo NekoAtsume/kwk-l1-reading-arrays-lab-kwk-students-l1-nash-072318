@@ -9,15 +9,12 @@ STUDENT_NAMES = [
 
 def first_student_by_index
   STUDENT_NAMES = [ "Adele", "Beyoncé",  "Cardi B",   "Lady Gaga", "Nicki Minaj" ,  "Rihanna"]
-  " ,
-  "Rihanna"]
- 
 
 end
 
 def fourth_student_by_index
-  # Write a solution that returns the first student in the array student_names
-end
+  
+ end
 
 def last_student_by_index
   # Write a solution that returns the first student in the array student_names
