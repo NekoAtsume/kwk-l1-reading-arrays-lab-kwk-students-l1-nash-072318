@@ -13,7 +13,7 @@ def first_student_by_index
   "Cardi B",
   "Lady Gaga",
   "Nicki Minaj",
-  "Rihanna"
+  "Rihanna"]
 
 end
 
